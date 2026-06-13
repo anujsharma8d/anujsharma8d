@@ -36,6 +36,17 @@
 </div>
 
 ---
+## 🏅 GSSoC Badge Collection
+
+<p align="center">
+  <img src="./assets/gssoc/gssoc-badge-gssoc_champion.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-prolific.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-consistent.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-week_one.png" width="180" />
+</p>
+
+
+---
 
 # 🛠️ Tech Stack
 
@@ -91,16 +102,6 @@
 <a href="https://github.com/anujsharma8d">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=anujsharma8d\&label=Profile+Views\&color=0e75b6\&style=flat)
 
 </div>
 

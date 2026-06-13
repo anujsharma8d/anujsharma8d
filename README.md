@@ -40,7 +40,10 @@
 
 <p align="center">
   <img src="./assets/gssoc/gssoc-badge-gssoc_champion.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-elite.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-power_contributor.png" width="180" />
   <img src="./assets/gssoc/gssoc-badge-prolific.png" width="180" />
+  <img src="./assets/gssoc/gssoc-badge-on_a_roll.png" width="180" />
   <img src="./assets/gssoc/gssoc-badge-consistent.png" width="180" />
   <img src="./assets/gssoc/gssoc-badge-week_one.png" width="180" />
 </p>

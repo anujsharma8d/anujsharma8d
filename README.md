@@ -82,6 +82,16 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/anujsharma8d/anujsharma8d/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 # 🎯 Current Focus
 
 ```text

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style><![CDATA[
+.title{font:600 24px monospace;fill:#58a6ff}
+.sub{font:14px monospace;fill:#8b949e}
+.head{font:700 15px monospace;fill:#f0f6fc}
+.txt{font:12px monospace;fill:#c9d1d9}
+.small{font:11px monospace;fill:#8b949e}
+.ascii{font:4.67px monospace;fill:#c9d1d9;white-space:pre}
+]]></style>
+</defs>
+
+<rect width="985px" height="530px" fill="#18181B" rx="15"/>
+
+
+<g transform="translate(185.0,0) scale(1.22,1) translate(-185.0,0)">
+<text class="ascii" xml:space="preserve"><tspan x="79.88" y="27.67">                                     ...,.</tspan><tspan x="79.88" dy="5.37">                              ,,,,,.,...........</tspan><tspan x="79.88" dy="5.37">                           ,. .?*:.              .</tspan><tspan x="79.88" dy="5.37">                        ......:;:,;,..  ..         ..</tspan><tspan x="79.88" dy="5.37">                       .,. ..,,;.::,,..             .,.</tspan><tspan x="79.88" dy="5.37">                     ;.,   .,,:,;,,....              ..</tspan><tspan x="79.88" dy="5.37">                   ..... ...,..,,,:,..                ....:</tspan><tspan x="79.88" dy="5.37">                  ,..     ..,.::,:.                      ...</tspan><tspan x="79.88" dy="5.37">                 .     ... ..::+*???????**+;:,.            .</tspan><tspan x="79.88" dy="5.37">                 .    ,?   ?;SSSSSSS%%%%%???**+;:,.         .</tspan><tspan x="79.88" dy="5.37">                ... ..*: ;?%SSSSSSSSSS%%%%%??**++;:.. .     .</tspan><tspan x="79.88" dy="5.37">                     +*:*?%%SSSSSSSSSSSS%%%%??**++;,...     .</tspan><tspan x="79.88" dy="5.37">                .   .;++?%%%SSSSSSSSSSSS%%%%???**+;,   .    .</tspan><tspan x="79.88" dy="5.37">                    .+???%%%%SSSSSSSSSSSS%%%???**+;:.       .</tspan><tspan x="79.88" dy="5.37">                 ., ,*??%%%%SSSSSS##SSSSSS%?***+:+;::.</tspan><tspan x="79.88" dy="5.37">                 . .:??*:;;**;**%SSSSS%*:;,.. ..,. ,:,     .</tspan><tspan x="79.88" dy="5.37">                    :?:.:;;.  . :*?%%%+.  ,;****+;:.,,.    ,:</tspan><tspan x="79.88" dy="5.37">                 *+.:?;?:;*;,,,,;:*??+,:,:::;.,,::::,,. ..:::+</tspan><tspan x="79.88" dy="5.37">                 *?%:,**+.+*..+;+*;S%*,:,;%:,*+,.::::,, ,:;;:*</tspan><tspan x="79.88" dy="5.37">                 ?%S*;***++*?*+*?+;S%*,,;*??**++++;:::, .,:+;+</tspan><tspan x="79.88" dy="5.37">                 %%%+**???%%%%%%%:%SS?;;+?%%%%%??*;*:,. ,:;;*+</tspan><tspan x="79.88" dy="5.37">                 ?%%**:??%%SSSSS*?%SS?;;??%S%%%%?*:::,. ,,,+;+</tspan><tspan x="79.88" dy="5.37">                 %%S%*++?%SSSS?S%%%SS%*;;**S*++?**;::,..:;+;+</tspan><tspan x="79.88" dy="5.37">                 ?%S%:*?%%SSSSSS%%S#S%*;+;SSSS%%?*+:,. ,;++;</tspan><tspan x="79.88" dy="5.37">                  %%%++?%%SSSSSS?;;??;.,::%SS%%%?*;:,.  ,,</tspan><tspan x="79.88" dy="5.37">                      :+?%%SSSSS%?*??*++*?%%%%%?*+;,.</tspan><tspan x="79.88" dy="5.37">                      ::*%%%??+*;;**??*;:;;::*??*;:,. .</tspan><tspan x="79.88" dy="5.37">                      ,:+*%?:;;;;+*?**+;;;;**+**+:,.</tspan><tspan x="79.88" dy="5.37">                       .,;?%?%%%??%SS%?*++*??**+:,. .</tspan><tspan x="79.88" dy="5.37">                        ,:;??%%%%?;:,,:;**??**+:,. ..  .</tspan><tspan x="79.88" dy="5.37">                         , ;+?%%%SS??%%%%??**;,.  ...</tspan><tspan x="79.88" dy="5.37">                        ,,?:.:+?%%*%%?%??**;.    ..,</tspan><tspan x="79.88" dy="5.37">             +:::,,,,,,,,,,??..,**+?;*++;:.    ...,.</tspan><tspan x="79.88" dy="5.37">           ;::,,,,,.......,?%?*, .......     ...,,,.    ..</tspan><tspan x="79.88" dy="5.37">          :::,,:,,.....    ??%???*;,,.........,,:,,.  .... .. .</tspan><tspan x="79.88" dy="5.37">          ::,..,,,,,,....  *%%%%%%????**++;;;;;;;;:, ....  .....</tspan><tspan x="79.88" dy="5.37">           ,,..:,,,,,,,....+%%SSSSS%%%%%???*****++;:....  ...........</tspan><tspan x="79.88" dy="5.37">            ,:::::,,,,,,,,,,*%SSSSSSSS%%%%??????**+;,... .............</tspan><tspan x="79.88" dy="5.37">           ::,,,,,,,:::::,,,,,?SSSSSSSS%%%%%%%%?***:... ..........</tspan><tspan x="79.88" dy="5.37">          ::::,,,,..,,::::,,,,,,SSSSSS%%%%%%%%%?*?,,..  ........     ....,,</tspan><tspan x="79.88" dy="5.37">       ,:::,,,,:::,,,,,,,,:::,,,,+SSSS%%%%%%%%%??.............     ........</tspan><tspan x="79.88" dy="5.37"> ;;::::,,,,,,,,,..:::,,,,.,,::,S  ,?SSS%%SSSSS%;.... ,......    ........ ..</tspan><tspan x="79.88" dy="5.37">::,,,,,,,,,,:::,,.,,,:,::,,..,,.,..,;%SSSSSSS+,.:. .,.....  ....,,..,... .,</tspan><tspan x="79.88" dy="5.37">,...,,,,,,,.,,::,,.,:::,,::,,.,,::.,,:?SSSSS:,,,:.,,...   .,.....,,,,..  .,</tspan><tspan x="79.88" dy="5.37">,:...,,,,,,..,::,,..,:,::,::,,,..;.,,,,*%S*,,,,.:...   ...,,......,,,..  ,,</tspan><tspan x="79.88" dy="5.37">..:,...,,,,..,,::,,..,::,,,,,,,,,:,.,,,:*,,,,,,:,   .....,,,,.....,,,..  ,,</tspan><tspan x="79.88" dy="5.37">,,.:,....,,...,::,,..,,,:::,......, ,,,....    ::. .,,...,,,,.....,,,,.  ,,</tspan><tspan x="79.88" dy="5.37">,,.,:,....,,..,:;:,...,:::,,,,,,,,:.,,,,,......:.. ,,...,,,,,,....,,,.. .,,</tspan><tspan x="79.88" dy="5.37">:,,.:,,....,...,;:,...,,,:::::,,,,,.,,,,,,,,...:  .....,,,,,,,...,,,... .,,</tspan><tspan x="79.88" dy="5.37">:,:,,:,,.......,::,,..,,,::,,::,,,,,,,,,,,,,,,,:  .....,,,,,,,,,,,,,,,.  ,,</tspan><tspan x="79.88" dy="5.37">.,,,:;:,,......,:::,,.,,,,,,,,,,,,,,,,,,,,,,,,.;......,,,,,,,,,.,,,,,,.  ,,</tspan></text>
+</g>
+
+<text x="380" y="38" class="title">Anuj Sharma </text>
+
+<line x1="380" y1="58" x2="775" y2="58" stroke="#30363d"/>
+
+<text x="380" y="82" class="head">--- ABOUT ---</text>
+<text x="380" y="100" class="txt">• Full Stack Developer</text>
+<text x="380" y="116" class="txt">• Competitive Programmer</text>
+<text x="380" y="132" class="txt">• Open Source Contributor</text>
+
+<text x="380" y="158" class="head">--- TECH STACK ---</text>
+<text x="380" y="176" class="small">• Languages</text>
+<text x="485" y="176" class="txt">C++ &#8226; JavaScript &#8226; Python</text>
+<text x="380" y="192" class="small">• Frontend</text>
+<text x="485" y="192" class="txt">React &#8226; Tailwind CSS</text>
+<text x="380" y="208" class="small">• Backend</text>
+<text x="485" y="208" class="txt">Node.js &#8226; Express.js</text>
+<text x="380" y="224" class="small">• Database</text>
+<text x="485" y="224" class="txt">MongoDB</text>
+
+<text x="380" y="252" class="head">--- ACHIEVEMENTS ---</text>
+<text x="380" y="270" class="txt">&#8226; Top 100 GSSoC'26</text>
+<text x="380" y="286" class="txt">&#8226; 85+ PRs Merged</text>
+<text x="380" y="302" class="txt">&#8226; 400+ DSA Problems</text>
+</svg>

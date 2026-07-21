@@ -1,1 +1,0 @@
-GSSoC badges folder

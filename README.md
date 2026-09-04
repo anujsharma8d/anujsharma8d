@@ -2,14 +2,16 @@
   <img src="assets/profile/profile_card.svg" />
 </div>
 
-
 ---
 
+<div align="center">
+
 # **PROJECTS**
-<table border="1" cellspacing="0">
+
+<table border="1" cellspacing="0" width="100%">
 <tr>
 
-<td width="400" valign="top">
+<td width="50%" valign="top" align="center">
 
 ## Task Manager
 
@@ -18,22 +20,31 @@ A full-stack MERN task management application with JWT authentication, dark/ligh
 **Tech Stack:** React • Tailwind CSS • Node.js • Express • MongoDB
 
 <p>
-<a href="https://react-task-manager-blond.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white"></a>
-<a href="https://github.com/anujsharma8d/react-task-manager"><img src="https://img.shields.io/badge/Source_Code-27272A?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://react-task-manager-blond.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/anujsharma8d/react-task-manager">
+  <img src="https://img.shields.io/badge/Source_Code-27272A?style=flat-square&logo=github&logoColor=white">
+</a>
 </p>
 
 </td>
 
-<td width="400" valign="top">
+<td width="50%" valign="top" align="center">
 
-## MockSpire
+## Mockspire
 
-An AI-powered mock interview platform that helps users practice interviews with real-time feedback.
+An AI-powered mock interview platform for realistic interview practice, personalized feedback, and performance improvement.
 
 **Tech Stack:** React • Tailwind CSS • Node.js • Express • MongoDB • Gemini API
 
 <p>
-<img src="https://img.shields.io/badge/Status-In_Progress-F59E0B?style=flat-square&logo=clockify&logoColor=white">
+<a href="https://mockspire.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white">
+</a>
+<a href="https://github.com/anujsharma8d/mockspire">
+  <img src="https://img.shields.io/badge/Source_Code-27272A?style=flat-square&logo=github&logoColor=white">
+</a>
 </p>
 
 </td>
@@ -41,12 +52,13 @@ An AI-powered mock interview platform that helps users practice interviews with 
 </tr>
 </table>
 
+</div>
 
 ---
 
 # **CONNECT**
 
-<p align=center>
+<p align="center">
 <a href="https://www.linkedin.com/in/anujsharma8d">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -55,12 +67,10 @@ An AI-powered mock interview platform that helps users practice interviews with 
 </a>
 </p>
 
-
-
 ---
 
 <div align="center">
-  <h3> ⭐ Consistency compounds. Every contribution counts. </h3>
+  <h3>⭐ Consistency compounds. Every contribution counts.</h3>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
